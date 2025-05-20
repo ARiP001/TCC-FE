@@ -1,8 +1,8 @@
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import NoteList from "./components/NoteList";
 import AddNote from "./components/AddNote";
-import EditNote from "./Components/EditNote";
-import DetailNote from "./Components/DetailNote";
+import EditNote from "./components/EditNote";
+import DetailNote from "./components/DetailNote";
 import Login from "./components/Login";
 import Register from "./components/Register";
 import PrivateRoute from "./components/PrivateRoute";
